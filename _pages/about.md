@@ -42,13 +42,12 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 📖 Educations
 ======
--_2022.09 - 2026.06_, Undergraduate, Shanghai University, Shanghai.  
--_2019.09 - 2022.06_, Chongqing No.1 High School, Chongqing.
-
+-**_2022.09 - Present_**, Undergraduate, Shanghai University, Shanghai.  
+-**_2019.09 - 2022.06_**, Chongqing No.1 High School, Chongqing.
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
+📫 Contact Me
 ------
-I am currently seeking a mentor who shares my interests to explore the unknown together in the world of academia. I firmly believe in the philosophy of  <span style="color: gold;">Think big, start small, scale fast</span>. This is not only my approach to academic research but also how I tackle life's challenges. I believe that through our joint efforts, we can creatively change the world🚀.
+I am currently seeking a professor who shares my interests to explore the unknown together in the world of academia. I firmly believe in the philosophy of **Think big, start small, scale fast**. This is not only my approach to academic research but also how I tackle life's challenges. I believe that through our joint efforts, we can creatively change the world🚀.
