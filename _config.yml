@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Hanqi Lyu (吕翰琪)"
   pronouns         : # example: "she/her"  
-  bio              : "Third-year student, LOOKING FOR Master & PhD"
+  bio              : "3rd-year student, LOOKING FOR Master & PhD"
   location         : "Shanghai University"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Hanqi7921?tab=repositories"
+  github           : "https://github.com/Hanqi7921"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -214,16 +214,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
